@@ -52,13 +52,6 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-
-<!--	<repository>-->
-<!--		<id>jasypt-basic</id>-->
-<!--		<name>Jasypt Repository</name>-->
-<!--		<url>https://repo1.maven.org/maven2/</url>-->
-<!--	</repository>-->
-
 	<build>
 		<plugins>
 			<plugin>
